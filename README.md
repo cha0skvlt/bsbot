@@ -142,7 +142,7 @@
 
  **Инфраструктура:** 
  - VDS сервер для базы данных и бэкенда бота
- - 2 GB RAM  , SSD 40 GD, CPU 2 core [Selectel](https://vds.selectel.ru/)
+ - 2 GB RAM  , SSD 40 GD, CPU 2 core @ [Selectel](https://vds.selectel.ru/)
  - 800 ₽ в месяц
 
  ---
