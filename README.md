@@ -2,13 +2,13 @@
 **Проект цифровой инфраструктуры для автоматизации процессов Кузницы Фёдора Пушкарёва**
 
 ---
-- **Язык разработки**: Python 3.11  
+- **Язык разработки**: Python
 - **Telegram Bot API**: [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)  
-- **База данных**: PostgreSQL 15  
+- **База данных**: PostgreSQL
 - **QR-система**: библиотека `qrcode` (UUID → `t.me/bot?start=uuid`)  
 - **Админ-интерфейс**: через команды бота (`/post`, `/report`, `/guests`)  
 - **Конфигурация**: `.env`-файл (секреты и настройки)  
-- **Автозапуск и деплой**: VPS + systemd / pm2  
+- **Автозапуск и деплой**: VPS + systemd  
 - **Публикация контента**: авто и ручная отправка в Telegram-канал  
 - **Генерация постов**: GPT через OpenAI API
 ---
